@@ -1,0 +1,2 @@
+# VivaldiAppImage
+VivaldiAppImage
